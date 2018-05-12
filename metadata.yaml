@@ -1,0 +1,29 @@
+_repo: Genera-of-Leptodactylid-Frogs-in-M-xico_31830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lynch, John D.
+    gutenberg_agent_id: '35128'
+    url: http://www.gutenberg.org/2009/agents/35128
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31830'
+  lccn: '68064993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leptodactylidae'
+- !lcc 'QH'
+- !lcsh 'Frogs -- Mexico'
+title: Genera of Leptodactylid Frogs in México
+url: http://www.gutenberg.org/ebooks/31830
